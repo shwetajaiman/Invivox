@@ -28,7 +28,7 @@ class printNumbers {
 
 // child class
 class printHundredNumbers extends printNumbers {
-   public function print101() {}
+   public function print1001() {}
 }
 
 new printHundredNumbers;
