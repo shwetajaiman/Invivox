@@ -29,10 +29,10 @@ function printNumbers(){
             <div id="data-container">
                 <div class="data-item">
     			<?php 
-					//call the function 
-					printNumbers(); 
-				?>
-				</div>
+			//call the function 
+			printNumbers(); 
+			?>
+		 </div>
 
                  <div class="data-item">
                     Click the button below to load more items.
@@ -46,7 +46,7 @@ function printNumbers(){
             </div>
         </div>
        
-		<script type="text/javascript" src="jquery/jquery.1.10.min.js"></script>
+	<script type="text/javascript" src="jquery/jquery.1.10.min.js"></script>
         <script type="text/javascript" src="jquery/lazyload.js"></script>
     </body>
 </html>
